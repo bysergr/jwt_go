@@ -1,7 +1,7 @@
 package database
 
 import (
-	"github.com/sergio-rey/jwt/models"
+	"github.com/sergio-rey/jwt-go/models"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )

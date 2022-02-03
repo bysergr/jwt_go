@@ -6,8 +6,8 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gofiber/fiber/v2"
-	"github.com/sergio-rey/jwt/database"
-	"github.com/sergio-rey/jwt/models"
+	"github.com/sergio-rey/jwt-go/database"
+	"github.com/sergio-rey/jwt-go/models"
 	"golang.org/x/crypto/bcrypt"
 )
 

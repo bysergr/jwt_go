@@ -1,4 +1,4 @@
-module github.com/sergio-rey/jwt
+module github.com/sergio-rey/jwt-go
 
 go 1.17
 
